@@ -7,7 +7,7 @@ I am a software engineer building webapps and likes to draw!!
 ### projects
 - [wips](https://wips.art/) 🎨
 - [focal point](https://xanderjakeq.gumroad.com/l/focal_point) (⓿_⓿)
-
+- [other](https://github.com/projectcollection)
 
 <!--
 **xanderjakeq/xanderjakeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
