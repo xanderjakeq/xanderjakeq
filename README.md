@@ -6,7 +6,7 @@ I am a software engineer building webapps and likes to draw!!
 
 ### projects
 - [wips](https://wips.art/) 🎨
-- [focal point](https://xanderjakeq.gumroad.com/l/focal_point) (⓿_⓿)
+- [focal point](https://focalpoint.wips.art/) (⓿_⓿)
 - [other](https://github.com/projectcollection)
 
 <!--
