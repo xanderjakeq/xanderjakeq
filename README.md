@@ -1,8 +1,10 @@
 ## Xander Jake de los Santos ✍(◔◡◔)
+- [x] **Available for hire**
+      
 I am a software engineer building webapps and like to draw!!
 Currently learning rust.
 
-#### [website](https://xanderjakeq.page/) | [notes](https://notes.xanderjakeq.page/)
+#### [website](https://xanderjakeq.page/) | [notes](https://notes.xanderjakeq.page/) | [xanderjakeq@gmail.com](mailto:xanderjakeq+github@gmail.com)
 ### projects
 - [wips.art](https://wips.art/) 🎨
 - [focal point](https://focalpoint.wips.art/) (⓿_⓿)
