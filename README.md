@@ -1,14 +1,14 @@
 ## Xander Jake de los Santos ✍(◔◡◔)
-#### [xanderjakeq@gmail.com](https://xanderjakeq.page/)
-I am a software engineer building webapps and likes to draw!!
+I am a software engineer building webapps and like to draw!!
+Currently learning rust.
 
-(vim btw)
-
+#### [website](https://xanderjakeq.page/) | [notes](https://notes.xanderjakeq.page/)
 ### projects
-- [wips](https://wips.art/) 🎨
+- [wips.art](https://wips.art/) 🎨
 - [focal point](https://focalpoint.wips.art/) (⓿_⓿)
 - [other](https://github.com/projectcollection)
 
+(vim btw)
 <!--
 **xanderjakeq/xanderjakeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
