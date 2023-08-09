@@ -2,7 +2,7 @@
 - [x] **Available for hire**
       
 I am a software engineer building webapps and like to draw!!
-Currently learning rust.
+Currently learning [go, rust].
 
 #### [website](https://xanderjakeq.page/) | [notes](https://notes.xanderjakeq.page/) | [xanderjakeq@gmail.com](mailto:xanderjakeq+github@gmail.com)
 ### projects
