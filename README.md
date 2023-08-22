@@ -4,7 +4,7 @@
 I am a software engineer building webapps and like to draw!!
 Currently learning [go, rust].
 
-#### [website](https://xanderjakeq.page/) | [notes](https://notes.xanderjakeq.page/) | [xanderjakeq@gmail.com](mailto:xanderjakeq+github@gmail.com)
+#### [website](https://xanderjakeq.page/) | [notes](https://notes.xanderjakeq.page/) | [xanderjakeq@gmail.com](mailto:xanderjakeq+github@gmail.com) | [twitter](https://www.threads.net/@xanderjakeq)
 ### projects
 - [wips.art](https://wips.art/) 🎨
 - [focal point](https://focalpoint.wips.art/) (⓿_⓿)
