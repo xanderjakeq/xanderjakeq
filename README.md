@@ -1,27 +1,10 @@
 ## Xander Jake de los Santos ✍(◔◡◔)
-- [x] **Available for hire**
+#### [website](https://xanderjakeq.page/) | [notes](https://notes.xanderjakeq.page/) | [xanderjakeq@gmail.com](mailto:xanderjakeq+github@gmail.com) | [wips.art](https://wips.art/)
       
-I am a software engineer building webapps and like to draw!!
+I am a software engineer building webapps and drawing pretty things!!
+
 Currently learning [go, rust].
 
-#### [website](https://xanderjakeq.page/) | [notes](https://notes.xanderjakeq.page/) | [xanderjakeq@gmail.com](mailto:xanderjakeq+github@gmail.com) | [twitter](https://www.threads.net/@xanderjakeq)
-### projects
-- [wips.art](https://wips.art/) 🎨
-- [focal point](https://focalpoint.wips.art/) (⓿_⓿)
-- [other](https://github.com/projectcollection)
+
 
 (vim btw)
-<!--
-**xanderjakeq/xanderjakeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
