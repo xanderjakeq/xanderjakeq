@@ -7,4 +7,4 @@ Currently learning [go, rust].
 
 
 
-(vim btw)
+:wq
